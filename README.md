@@ -4,15 +4,15 @@ README.md
 Welcome to my GitHub profile! I'm a passionate Data Analyst with a love for coding and problem-solving. Here you can find some of the projects I've been working on and contributions I've made to the open-source community.
 
 ## About Me
-- 🌱 I’m currently learning Data Science and training to become a data scientist specializing in the use of Artificial Intelligence in solving problems.
+- 🌱 I’m constantly learning and training to become a data analyst and data professional specializing in the use of Artificial Intelligence for solving problems.
 - 🔭 I’m working on several open-source projects, including a web application for task management and a Python library for data analysis.
 - 🤔 I’m looking for help with improving my knowledge in machine learning and AI.
-- 💬 Ask me about Python, JavaScript, or any other programming-related topics.
+- 💬 Ask me about Microsoft Excel, Power BI, Python, JavaScript, or any other analysis-related topics.
 - 📫 How to reach me: [Email](dadeniyi31@gmail.com) | [LinkedIn](https://www.linkedin.com/in/david-osaretin-iii-5468a1227)
-- ⚡ Fun fact: I love hiking and exploring the great outdoors!
+- ⚡ Fun fact: I love listening to music and meeting new people!
 
 ## Skills
-- **Languages:** Python, JavaScr, Java, C++
+- **Languages:** Python, SQL, JavaScript, C++, R
 - **Web Development:** HTML, CSS, React, Node.js
 - **Data Analysis:** Pandas, NumPy, Matplotlib
 - **Databases:** MySQL, MongoDB
