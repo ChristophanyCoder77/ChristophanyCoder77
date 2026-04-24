@@ -4,7 +4,7 @@ README.md
 Welcome to my GitHub profile! I'm a passionate Data Analyst with a love for coding and problem-solving. Here you can find some of the projects I've been working on and contributions I've made to the open-source community.
 
 ## About Me
-- 🌱 I’m constantly learning and training to become a data analyst and data professional specializing in the use of Artificial Intelligence for solving problems.
+- 🌱 I’m constantly learning and training to become a better data analyst and data professional specializing in the use of Artificial Intelligence for solving problems.
 - 🔭 I’m working on several open-source projects, including a web application for task management and a Python library for data analysis.
 - 🤔 I’m looking for help with improving my knowledge in machine learning and AI.
 - 💬 Ask me about Microsoft Excel, Power BI, Python, JavaScript, or any other analysis-related topics.
