@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst with a love for codi
 
 ## About Me
 - 🌱 I’m constantly learning and training to become a better data analyst and data professional specializing in the use of Artificial Intelligence for solving problems.
-- 🔭 I’m working on several open-source projects, including a web application for task management and a Python library for data analysis.
-- 🤔 I’m looking for help with improving my knowledge in machine learning and AI.
+- 🔭 I’m usually working on different projects, including creating dashboards and other data tools for visualizing and telling a story about the significance of company or personal data.
+- 🤔 I’m into machine learning and AI as well.
 - 💬 Ask me about DATA (whether it's in Microsoft Excel, Power BI, Python, JavaScript etc) or any other analytics-related topics.
 - 📫 How to reach me: [Email](dadeniyi31@gmail.com) | [LinkedIn](https://www.linkedin.com/in/david-osaretin-iii-5468a1227)
 - ⚡ Fun fact: I love meeting new people and solving problems!
