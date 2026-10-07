@@ -12,11 +12,11 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst with a love for codi
 - ⚡ Fun fact: I love meeting new people and solving problems!
 
 ## Skills
-- **Languages:** Python, SQL, JavaScript, C++, R
-- **Web Development:** HTML, CSS, React, Node.js
 - **Data Analysis:** Pandas, NumPy, Matplotlib
 - **Databases:** MySQL, MongoDB
-- **Tools and Platforms:** Git, Docker, AWS
+- **Tools and Platforms:** Git, Docker, AWS, Microsoft Excel, Tableau, Microsoft Power BI, Tableau
+- **Web Development:** HTML, CSS, React, Node.js
+- **Languages:** Python, SQL, JavaScript, C++, R
 
 ## Projects
 Here are a few highlights of my work:
